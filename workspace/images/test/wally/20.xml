@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>20.jpg</filename>
+	<path>C:\Users\bikmu\Desktop\Thomas More\AI\WallyDetection\workspace\images\test\20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2953</width>
+		<height>2088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wally</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>1681</ymin>
+			<xmax>331</xmax>
+			<ymax>1758</ymax>
+		</bndbox>
+	</object>
+</annotation>
